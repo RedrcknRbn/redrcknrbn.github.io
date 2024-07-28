@@ -2,32 +2,38 @@
 <!--Created with PageFabric. https://pagefabric-app.com-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://redrcknrbn.github.io/dmrules.html</loc>
-    <lastmod>2024-07-14</lastmod>
+    <loc>https://acyt.lol/dmrules.html</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://redrcknrbn.github.io/index.html</loc>
-    <lastmod>2024-07-14</lastmod>
+    <loc>https://acyt.lol/faq.html</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://redrcknrbn.github.io/musiclicense.html</loc>
-    <lastmod>2024-07-14</lastmod>
+    <loc>https://acyt.lol/index.html</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://redrcknrbn.github.io/privacypolicy.html</loc>
-    <lastmod>2024-07-14</lastmod>
+    <loc>https://acyt.lol/musiclicense.html</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://redrcknrbn.github.io/tos.html</loc>
-    <lastmod>2024-07-14</lastmod>
+    <loc>https://acyt.lol/privacypolicy.html</loc>
+    <lastmod>2024-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://acyt.lol/tos.html</loc>
+    <lastmod>2024-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>

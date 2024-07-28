@@ -4,7 +4,7 @@ DataConnectors = [
 var PageFabricConfig = {
 disqusId : "",
 googleAnalyticsId : "",
-globalSearchMode : "Webservice",
+globalSearchMode : "Json",
 globalSearchWebServiceURL : "",
 globalSearchLanguageFiles:[
 {
