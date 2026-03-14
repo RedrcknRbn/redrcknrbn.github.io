@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please contact gamingb370@gmail.com with the email subject starting with "Security Vuln"
+Please contact security@acyt.lol with the email subject starting with "Security Vuln"
